@@ -1,2 +1,2 @@
-# katherine-johnson
-Tribute to Katherine Johnson
+# annie-j-easley
+Tribute to Annie J Easley
