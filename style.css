@@ -1,0 +1,57 @@
+body {
+    background: #0B3D91;
+    color: white;
+    /* font-family: "Roberto" , sans-serif; */
+    font-family: "Roberto Mono", monospace;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    padding-bottom: 10px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 50%;
+}
+
+blockquote{
+    text-align: center;
+}
+
+a {
+    color: white;
+}
+
+#intro {
+    margin: 20px;
+}
+
+section {
+    border: 3px dotted white;
+    padding: 10px;
+}
+
+blockquote {
+    background-color: #fc3d21;
+    border: 2px solid white;
+    border-radius: 25px;
+    padding: 20px
+}
+
